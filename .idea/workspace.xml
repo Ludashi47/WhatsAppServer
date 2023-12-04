@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="efea89e0-600c-49a6-a966-6426931b2435" name="Changes" comment="" />
+    <list default="true" id="efea89e0-600c-49a6-a966-6426931b2435" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/frame/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ManageThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ServerConnectClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/MessageType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/MessageType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2Z265fKKz6h2Y8IJhXbFSGzd94P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,9 +44,31 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/work/java/Test/WhatsAppServer",
     "onboarding.tips.debug.path": "C:/Users/ljx99/Workplace/Java/WhatsApp/Server/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frame.Frame" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Frame" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
